@@ -14,7 +14,7 @@
 
 <br>
 
-<h3 align="center"><a href="https://jndrkmllh.github.io/profile/" target="blank">Portfolio</a></h3>
+<h3 align="center"><a href="https://jndrkmllh.github.io/profile/" target=_blank>Portfolio</a></h3>
 
 <br>
 
