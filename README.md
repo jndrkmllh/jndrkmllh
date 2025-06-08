@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jendrik</h1>
-<h3 align="center">A passionate software engineer from Berlin. I recently started as a backend software engineer @ SaveStrike. See sections below for more information.</h3>
+<h3 align="center">A passionate software engineer from Berlin. Currently working as a backend software engineer @ WishlistX (formerly SaveStrike). See sections below for more information.</h3>
 
 <br>
 
